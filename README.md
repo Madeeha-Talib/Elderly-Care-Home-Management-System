@@ -1,4 +1,4 @@
-<img width="550" height="247" alt="image" src="https://github.com/user-attachments/assets/6e73e045-0f1d-4509-b598-05b36226dbb7" /># **Elderly Care Home Management System**
+**Elderly Care Home Management System**
 
 ## 📋 **Project Overview**
 A comprehensive web-based database management system designed to streamline operations in elderly care facilities. The system automates resident management, room allocation, medical records, and visitor scheduling using advanced Database Administration (DBA) concepts.
@@ -26,14 +26,17 @@ A comprehensive web-based database management system designed to streamline oper
 
 ### **1. Main Dashboard**
 <img width="554" height="246" alt="image" src="https://github.com/user-attachments/assets/6ee6e772-269d-466c-9cfe-74ae8d72ec6d" />
+
 *Dashboard showing system overview with resident statistics and quick access modules*
 
 ### **2. Resident Management**
 <img width="499" height="215" alt="image" src="https://github.com/user-attachments/assets/cfe59948-f4cd-484c-9c20-f8e569b6bf02" />
+
 *Resident records interface with search, filter, and CRUD operations*
 
 ### **3. Medication Management**
 <img width="385" height="168" alt="image" src="https://github.com/user-attachments/assets/8e8b73e6-5c02-4afe-9c43-681f15264af2" />
+
 *Medication schedule and alerts for residents*
 
 ### **4. Medication alters**
@@ -41,14 +44,17 @@ A comprehensive web-based database management system designed to streamline oper
 
 ### **5. Medical History**
 <img width="727" height="210" alt="image" src="https://github.com/user-attachments/assets/e9071c57-494f-4bee-a8d8-43d510f59710" />
+
 *Complete medical history and treatment records for each resident*
 
 ### **6. Dietary Plans**
 <img width="609" height="187" alt="image" src="https://github.com/user-attachments/assets/534fbbc3-7895-4825-80cc-4eb1547e0635" />
+
 *Nutritional plans and dietary requirements tracking*
 
 ### **7. Room Management**
 <img width="555" height="198" alt="image" src="https://github.com/user-attachments/assets/6bc43d12-8d53-41eb-85f1-a6c8e389a348" />
+
 *Floor-wise room allocation with occupancy status indicators*
 
 ### **8. Family visits**
@@ -60,6 +66,7 @@ A comprehensive web-based database management system designed to streamline oper
 
 ### **10. Admin Panel**
 <img width="572" height="249" alt="image" src="https://github.com/user-attachments/assets/803d0b07-edc9-44b8-848c-da91ec4c4669" />
+
 *Administrator interface with CSV import/export and database utilities*
 
 ### **11. Audits logs**
@@ -89,6 +96,7 @@ A comprehensive web-based database management system designed to streamline oper
 
 ### **System Workflow**
 <img width="1054" height="473" alt="image" src="https://github.com/user-attachments/assets/e0c5519c-ebf6-42f3-a985-a05b48acf336" />
+
 *UML representation of system processes and data flow*
 
 ---
@@ -154,6 +162,7 @@ A comprehensive web-based database management system designed to streamline oper
 <img width="1039" height="899" alt="image" src="https://github.com/user-attachments/assets/a34b9c29-4df0-4010-8e1f-5efd3547b39c" />
 <img width="1039" height="907" alt="image" src="https://github.com/user-attachments/assets/f2b23833-a544-4341-bb85-016a106358a8" />
 <img width="1039" height="912" alt="image" src="https://github.com/user-attachments/assets/bef2244b-9819-4332-9d26-1786cd04b02d" />
+
 *Interface for executing database stored procedures*
 
 ---
