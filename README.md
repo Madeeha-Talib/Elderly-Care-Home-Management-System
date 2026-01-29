@@ -59,6 +59,7 @@ A comprehensive web-based database management system designed to streamline oper
 
 ### **8. Family visits**
 <img width="412" height="119" alt="image" src="https://github.com/user-attachments/assets/bbd306fb-7be0-4942-8ea8-6bf3a06d5a0b" />
+
 <img width="353" height="163" alt="image" src="https://github.com/user-attachments/assets/5fa7dfac-1575-4f7c-8b39-8e1060a409fd" />
 
 ### **9. Reports**
